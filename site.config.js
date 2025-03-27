@@ -10,7 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-  projects: [],
+  projects: [
+    {
+      name: ``,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "자쿠의 지식창고",
